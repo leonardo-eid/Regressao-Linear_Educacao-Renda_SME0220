@@ -1,14 +1,14 @@
-# 📈 Educação e Renda nos Municípios Paulistas, uma Análise de Regressão Linear Simples
+# 📈 Educação e Renda nos Municípios Paulistas: uma Análise de Regressão Linear Simples
 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?logo=tidyverse&logoColor=white)
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 
-Projeto final da disciplina **SME0220 (Introdução à Teoria das Probabilidades)**, do ICMC-USP, São Carlos.
+Projeto final da disciplina SME0220, do ICMC-USP.
 
 O projeto investiga se o nível educacional de um município ajuda a explicar a sua renda,
-usando um modelo de **regressão linear simples** ajustado por **mínimos quadrados** sobre os
-**645 municípios do estado de São Paulo** (Censo 2010).
+usando um modelo de regressão linear simples ajustado por mínimos quadrados sobre os
+645 municípios do estado de São Paulo (Censo 2010).
 
 ---
 
@@ -21,7 +21,6 @@ usando um modelo de **regressão linear simples** ajustado por **mínimos quadra
 - [Diagnóstico do modelo](#-diagnóstico-do-modelo)
 - [Aplicação prática e predição](#-aplicação-prática-e-predição)
 - [Conclusões](#-conclusões)
-- [Respostas aos itens do projeto](#-respostas-aos-itens-do-projeto)
 - [Estrutura do repositório](#-estrutura-do-repositório)
 - [Como reproduzir](#-como-reproduzir)
 - [Créditos e fonte dos dados](#-créditos-e-fonte-dos-dados)
@@ -183,5 +182,5 @@ da predição para IDHM igual a 0,75.
 
 ## 📚 Créditos e fonte dos dados
 
-- Projeto da disciplina **SME0220 (Introdução à Teoria das Probabilidades)**, ICMC-USP, 2025.
+- Projeto da disciplina SME0220 (Introdução à Teoria das Probabilidades), ICMC-USP, 2025.
 - Dados do *Atlas do Desenvolvimento Humano no Brasil*, PNUD Brasil, Ipea e FJP, 2022, com base em IBGE e registros administrativos.
